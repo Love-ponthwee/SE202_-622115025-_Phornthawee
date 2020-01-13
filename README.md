@@ -20,7 +20,7 @@
                 experience with the software, So i got to learn new thing and stay improve. 
         </h2>
         </p>
-        <img src="me.png">
+        <img src="Mee.jpg">
         
        
     </div>
